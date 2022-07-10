@@ -22,23 +22,23 @@ body{
 }
 .product-head{
     font-family: "Fraunces", sans-serif;
-   
+    color:hsl(212, 21%, 14%);
 }
 .perfume{
     font-family: "Montserrat",sans-serif;
     letter-spacing: 5px;
-    color:grey;
+    color:hsl(228, 12%, 48%);
 }
 .perfume-para{
     font-family: "Montserrat",sans-serif;
     font-size: 14px;
-    color: grey;
+    color: hsl(228, 12%, 48%);
 }
 .a169{
     
 font-size: 14px;
 text-decoration-line: line-through;
-color: grey;
+color: hsl(228, 12%, 48%);
 margin-left: 10px;
 
 }
