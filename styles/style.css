@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&display=swap');
+
 body{
     background-color: hsl(30,38% ,92%);
 }
@@ -8,9 +11,20 @@ body{
     margin-top: 150px;
     height: 350px;
 }
+/*product*/
 .product{
     background-color: white;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+.product-head{
+    font-family: "Fraunces", sans-serif;
+   
+}
+.perfume{
+    font-family: "Montserrat",sans-serif;
+    letter-spacing: 5px;
 }
