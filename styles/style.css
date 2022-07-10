@@ -49,6 +49,10 @@ color: hsl(228, 12%, 48%);
 margin-left: 10px;
 
 }
+.a-price{
+    color:hsl(158, 36%, 37%);
+    font-family: "Fraunces",sans-serif;
+}
 .cart-button{
    background-color : hsl(158, 36%, 37%);
    color: white;
