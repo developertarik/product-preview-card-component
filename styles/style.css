@@ -6,4 +6,11 @@ body{
     display: flex;
     justify-content: center;
     margin-top: 150px;
+    height: 350px;
+}
+.product{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
 }
