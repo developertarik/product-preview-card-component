@@ -9,14 +9,14 @@ body{
     display: flex;
     justify-content: center;
     margin-top: 150px;
-    height: 350px;
+    height: 400px;
 }
 /*product*/
 .product{
     background-color: white;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: center;
     padding-left: 30px;
     padding-right: 40px;
 }
@@ -27,4 +27,18 @@ body{
 .perfume{
     font-family: "Montserrat",sans-serif;
     letter-spacing: 5px;
+    color:grey;
+}
+.perfume-para{
+    font-family: "Montserrat",sans-serif;
+    font-size: 14px;
+    color: grey;
+}
+.a169{
+    
+font-size: 14px;
+text-decoration-line: line-through;
+color: grey;
+margin-left: 10px;
+
 }
